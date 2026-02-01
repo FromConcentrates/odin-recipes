@@ -1,0 +1,1 @@
+The purpose of this website is to demonstrate the HTML skills that I've learned through TOP, by showcasing a few of my favorite recipes. These skills include my knowledge of the HTML boilerplate, some basic elements such as h1-6, p, images and links. 
