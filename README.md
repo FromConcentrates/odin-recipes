@@ -1,1 +1,4 @@
-The purpose of this website is to demonstrate the HTML skills that I've learned through TOP, by showcasing a few of my favorite recipes. These skills include my knowledge of the HTML boilerplate, some basic elements such as h1-6, p, images and links. 
+The purpose of this website is to demonstrate the HTML skills that I've learned through TOP, by showcasing a few of my favorite recipes. These skills include my knowledge of the HTML boilerplate, some basic elements such as h1-6, p, the anchor element, and the use of images and links. In order to improve accessibility, I've written "alt" attritubtes for my images. I included figures and figure captions in order to make the
+project prettier, even though we haven't gone over those yet. 
+
+I chose to include a simplified version of three of my own recipes. The recipes are not super specific because I don't want to reveal my exact recipes online. But these are real outlines, and can serve as such for anyone wanting to cook these items.
