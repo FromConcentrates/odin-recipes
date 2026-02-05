@@ -1,0 +1,35 @@
+body {
+    background-color: #fff2a7;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.text-body {
+    color: rgb(0, 0, 167);
+    max-width: 750px;
+    margin: auto;
+    
+}
+
+.title {
+    text-align: center;
+}
+
+.text-body img {
+    display: block;
+    margin: auto;
+}
+
+.text-body figcaption {
+    text-align: center;
+}
+
+.meat {
+    outline: 5px solid blueviolet;
+    padding: 20px;
+    margin: 20px;
+}
+
+#home-link {
+    display: block;
+    text-align: center;
+}

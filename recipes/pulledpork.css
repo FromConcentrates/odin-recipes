@@ -1,0 +1,42 @@
+body {
+    background-color: #7b5c7b;
+    font-family: Arial, sans-serif;
+    color: #ffebd9;
+}
+
+a:link {
+    color: rgb(255, 211, 128);
+}
+
+a:active {
+    color: aqua;
+}
+
+.main {
+    margin: auto;
+    max-width: 750px;
+    padding: 20px;
+}
+
+.main img {
+    display: block;
+    margin: auto;
+}
+
+.main figcaption {
+    text-align: center;
+}
+
+.main-content {
+    border: 5px solid peachpuff;
+    padding: 15px;
+}
+
+.title {
+    text-align: center;
+}
+
+#home {
+    text-align: center;
+    display: block;
+}

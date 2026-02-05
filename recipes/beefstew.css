@@ -1,0 +1,45 @@
+body {
+    background-color: #8be3e3;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.title {
+text-align: center;
+}
+
+.recipe-text img {
+    display: block;
+    margin: auto;
+}
+
+.recipe-text figcaption {
+    text-align: center;
+}
+
+.recipe-text {
+    outline: 10px solid white;
+    margin: 20px auto;
+    padding: 25px;
+    max-width: 750px;
+}
+
+.description {
+    border-bottom: 5px solid #b27ae7;
+}
+
+.ingredients {
+    border-bottom: 5px solid #b27ae7;
+}
+
+.steps {
+    border-bottom: 5px solid #b27ae7;
+}
+
+.nav {
+    text-align: center;
+    margin-top: 15px;
+}
+
+a:hover {
+    color: pink;
+}
